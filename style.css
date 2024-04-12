@@ -6,6 +6,10 @@ margin: auto;
 
 th, td {
 padding: 15px;
+border-top: 1px;
+border-bottom: 1px;
+border-left: 1px;
+border-right: 1px;
 }
 
 .previous {
@@ -13,6 +17,4 @@ color: #666666;
 }
 
 .calendardiv {
-border: 3px;
-background-color: #47badd;
 }
