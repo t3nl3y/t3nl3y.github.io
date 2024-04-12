@@ -1,6 +1,7 @@
 table{
 text-align: center;
 border-spacing: 30px;
+margin: auto;
 }
 
 th, td {
