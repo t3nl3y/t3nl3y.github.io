@@ -1,8 +1,7 @@
-table{
+table {
 text-align: center;
 border-spacing: 30px;
 margin: auto;
-border: 1px;
 }
 
 th, td {
@@ -13,7 +12,7 @@ padding: 15px;
 color: #666666;
 }
 
-.calendardiv{
-border: 1px;
+.calendardiv {
+border: 3px;
 background-color: #47badd;
 }
