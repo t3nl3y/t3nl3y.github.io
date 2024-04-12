@@ -4,7 +4,9 @@ border-spacing: 30px;
 margin: auto;
 }
 
+
+
 th, td {
 padding: 15px;
-
+border: 1px;
 }
