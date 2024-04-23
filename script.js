@@ -1,4 +1,4 @@
 
-function tester() {
-    alert('april fools!');
+function tester(day) {
+    alert('april ' + day);
 }
