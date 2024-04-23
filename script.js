@@ -1,4 +1,4 @@
 
-function tester(day) {
-    alert('april ' + day);
+function tester(month, day) {
+    alert(month + ' ' + day);
 }
