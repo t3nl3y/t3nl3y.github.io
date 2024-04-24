@@ -19,3 +19,8 @@ color: #666666;
 .calendardiv {
 margin: auto;
 }
+
+daydiv {
+border: 5px;
+text-align: center;
+}

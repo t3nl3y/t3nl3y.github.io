@@ -1,6 +1,5 @@
 
 function tester(month, day) {
-    //alert(month + ' ' + day);
-    document.getElementById("calenderid").innerHTML = "calender";
-    console.log("in the console");
+    document.getElementById("calenderid").innerHTML = month + '' + day;
+    //button to go back / restore previos innerHTML to see calendar again
 }
