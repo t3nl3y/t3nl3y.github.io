@@ -18,9 +18,15 @@ color: #666666;
 
 .calendardiv {
 margin: auto;
+text-align: center;
 }
 
-daydiv {
+.daydiv {
 border: 5px;
+text-align: center;
+}
+
+.event_allday {
+font-size: 17px;
 text-align: center;
 }
