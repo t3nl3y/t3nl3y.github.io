@@ -4,7 +4,7 @@ https://t3nl3y.github.io/
 ## week 1:
 ### created some calendars
 ## week 2:
-### create days with events
+### create days with events, edit events
 ## week 3:
 ### Allow user to create events and dates
 ## week 5:
