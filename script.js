@@ -5,7 +5,7 @@ function tester(month, day) {
 }
 
 function add_event() {
-    userinput = prompt("Title: ")
+    userinput = prompt("Title: ") 
 
 
 }
