@@ -24,9 +24,23 @@ text-align: center;
 .daydiv {
 border: 5px;
 text-align: center;
+width: 120px;
 }
 
 .event_allday {
 font-size: 17px;
 text-align: center;
+}
+.dayheading {
+font-size: 30px;
+text-align: center;
+}
+
+.addevent {
+text-align: left;
+}
+
+.specifictime {
+border: 2px;
+
 }
