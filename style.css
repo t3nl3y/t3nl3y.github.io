@@ -6,10 +6,7 @@ margin: auto;
 
 th, td {
 padding: 15px;
-border-top: 1px;
-border-bottom: 1px;
-border-left: 1px;
-border-right: 1px;
+border-width: 1px;
 }
 
 .previous {
@@ -22,7 +19,7 @@ text-align: center;
 }
 
 .daydiv {
-border: 5px;
+border-width: 5px;
 text-align: center;
 width: 120px;
 }
@@ -41,6 +38,6 @@ text-align: left;
 }
 
 .specifictime {
-border: 2px;
+border-width: 2px;
 
 }
