@@ -39,4 +39,4 @@ function add_event() {
     if (color == "black") {
         div.style.color = #000000
     }
-}
+} 
