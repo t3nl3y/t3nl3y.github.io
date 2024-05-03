@@ -6,7 +6,7 @@ margin: auto;
 
 th, td {
 padding: 15px;
-border-width: 1px;
+border-width: 1px solid black;
 }
 
 .previous {
