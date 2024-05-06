@@ -8,7 +8,9 @@ function add_event() {
     userinput = prompt("Title: ") 
     time = prompt("Time: ")
     color = prompt("Color: ")
-    var div = document.createElement("div");
+    //var div = document.createElement("div");
+    var div = document.getElementById(time); 
+    div.innerHTML = time + ", " + userinput;
     if (color == "red") {
         div.style.color = "#f11e1e"; 
     }
@@ -39,4 +41,4 @@ function add_event() {
     if (color == "black") {
         div.style.color = "#000000";
     }
-} 
+}
