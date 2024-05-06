@@ -10,7 +10,7 @@ function add_event() {
     color = prompt("Color: ")
     //var div = document.createElement("div");
     var div = document.getElementById(time); 
-    div.innerHTML = time + userinput;
+    div.innerHTML += userinput;
     if (color == "red") {
         div.style.color = "#f11e1e"; 
     }
