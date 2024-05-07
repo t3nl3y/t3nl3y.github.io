@@ -45,7 +45,7 @@ function add_event() {
 function add_alldayevent() {
     userinput = prompt("Title: ")
     color = prompt("Color: ") 
-    document.getElementById("eventallday").innerHTML += userinput;
+    document.getElementById("event_allday").innerHTML += userinput;
     if (color == "red") {
         div.style.color = "#f11e1e"; 
     }
