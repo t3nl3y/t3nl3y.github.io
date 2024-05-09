@@ -42,6 +42,7 @@ function add_event() {
         div.style.color = "#000000";
     }
 }
+/*
 function add_alldayevent() {
     userinput = prompt("Title: ")
     color = prompt("Color: ") 
@@ -76,4 +77,4 @@ function add_alldayevent() {
     if (color == "black") {
         div.style.color = "#000000";
     }
-}
+}*/
