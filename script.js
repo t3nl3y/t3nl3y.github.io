@@ -76,5 +76,5 @@ function add_alldayevent() {
     }
     if (color == "black") {
         div.style.color = "#000000";
-    }
+    } 
 }
