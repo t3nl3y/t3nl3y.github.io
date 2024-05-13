@@ -42,11 +42,11 @@ function add_event() {
         div.style.color = "#000000";
     }
 }
-/*
+
 function add_alldayevent() {
     userinput = prompt("Title: ")
     color = prompt("Color: ") 
-    document.getElementById("event_allday").innerHTML += <br> + userinput;
+    document.getElementById("event_allday").innerHTML += "<br>" + userinput;
     if (color == "red") {
         div.style.color = "#f11e1e"; 
     }
@@ -77,4 +77,4 @@ function add_alldayevent() {
     if (color == "black") {
         div.style.color = "#000000";
     }
-}*/
+}
