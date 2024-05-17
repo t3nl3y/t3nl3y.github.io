@@ -2,8 +2,6 @@
 <head>
     <script src="script.js"></script>
     <link rel="stylesheet" href="style.css" />
-</head>
-<body>
     <script>
         function findGetParameter(parameterName) {
             var result = null,
@@ -17,10 +15,17 @@
                 });
             return result;
         }
-        alert( findGetParameter('month') );
-        alert( findGetParameter('day') );
     </script>
-<p class="dayheading">April 1</p>
+</head>
+<body>
+    
+<p class="dayheading">
+    <script>
+        let month = findGetParameter('month'); 
+        let day = findGetParameter('day'); 
+        document.write(month + ' ' + day);
+    </script>
+</p>
 <button class=addevent onclick="add_event()">+</button>
 <button class=addevent onclick="add_alldayevent()">+all day event</button>
 <div class="daydiv">
