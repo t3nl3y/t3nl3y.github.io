@@ -78,3 +78,4 @@ function add_alldayevent() {
         div.style.color = "#000000";
     } 
 }
+
