@@ -79,3 +79,6 @@ function add_alldayevent() {
     } 
 }
 
+if (month = "April", day="1") {
+    document.getElementById("event_allday").innerHTML = "<p color='#a155ce'>April Fools</p>"
+}
